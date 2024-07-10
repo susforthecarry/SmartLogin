@@ -1,0 +1,25 @@
+body{
+    background-color: #24353F;
+}
+.loginbutton{
+    color: aqua;
+    background-color: transparent;
+}
+h1{
+    color: aqua;
+}
+.form-control {
+    background-color: #24353F;
+    color: aliceblue;
+
+}
+.container{
+    box-shadow: 2px 2px ;
+}
+.p{
+    color : green
+}
+a {
+    color: white;
+    text-decoration: none;
+}
